@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+.navbar img{
+    border: 5px solid peru;
+    border-radius: 50%;
+}
+.navbar-brand{
+    text-transform: uppercase;
+    font-size:1.3rem;
+    color: forestgreen;
+    font-family: 'Climate Crisis', cursive;
+}
+.navbar-brand:hover{
+    color: coral;
+}
+.nav-item a{
+    font-weight:800;
+    font-size: 1.2rem;
+}
+.nav-item a:hover{
+    color: rgb(238, 95, 51);
+    text-decoration:underline;
+}
