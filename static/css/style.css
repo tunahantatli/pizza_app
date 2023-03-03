@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+h1,h2,h3,h4,h5,h6 {
+    text-transform: uppercase;
+    font-family: 'Climate Crisis', cursive;
+}
 .navbar img{
     border: 5px solid peru;
     border-radius: 50%;
